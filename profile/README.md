@@ -22,7 +22,6 @@ Our repositories are organized to make collaboration efficient and structured. H
 - 🛠️ **DevOps**: pm2, Docker Compose files, and CI/CD pipelines.
 - 🔧 **Utilities**: Scripts and tools for internal automation and workflows.
 
----
 
 ## Internal Guidelines 📜
 To maintain productivity and consistency, please follow these guidelines:
@@ -35,7 +34,7 @@ To maintain productivity and consistency, please follow these guidelines:
    - `release/<version-number>` for release branches.
 
 2. ✍️ **Commit Messages**  
-   - Use descriptive messages (e.g., `feat: added user authentication`).  
+   - Use descriptive messages following the [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/#specification) convention. (e.g., `feat: added user authentication`).  
    - Reference issue IDs when applicable (e.g., `fix: resolved #123 API bug`).
 
 3. 🔄 **Pull Requests**  
@@ -53,7 +52,7 @@ To maintain productivity and consistency, please follow these guidelines:
 - 🚀 **Project Management Software**: [Clickup](https://app.clickup.com/9005022448/inbox?tab=important)  
 - 💬 **Support & Communication**: [Google Workspace](https://mail.google.com)
 
----
+
 
 ## Key Contacts 📞
 - 👨‍💻 **CEO, CTO**: Md Rakin Sarder ([mdrakin.sarder@deciphertech.io](mailto:mdrakin.sarder@deciphertech.io))
