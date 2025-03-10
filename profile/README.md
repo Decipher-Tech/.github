@@ -59,8 +59,7 @@ To maintain productivity and consistency, please follow these guidelines:
 - 📋 **Operations Manager**: Md Yousuf ([mohammad.yousuf@deciphertech.io](mailto:mohammad.yousuf@deciphertech.io))  
 - 🛠️ **Software Engineers**: 
   - Anindita Roy ([anindita.roy@deciphertech.io](mailto:anindita.roy@deciphertech.io))
-  - Atahar Ali Khan ([ataharali.khan@deciphertech.io](mailto:ataharali.khan@deciphertech.io))   
-
+  - Atahar Ali Khan ([ataharali.khan@deciphertech.io](mailto:ataharali.khan@deciphertech.io))
 
 ---
 
