@@ -60,7 +60,9 @@ To maintain productivity and consistency, please follow these guidelines:
 - 🛠️ **Software Engineers**: 
   - Anindita Roy ([anindita.roy@deciphertech.io](mailto:anindita.roy@deciphertech.io))
   - Atahar Ali Khan ([ataharali.khan@deciphertech.io](mailto:ataharali.khan@deciphertech.io))
-
+- 🛠️ **Intern**
+  - Mosfeq Ahamed Nayim ([mosfeqahamed.nayim@deciphertech.io](mailto:mosfeqahamed.nayim@deciphertech.io))
+  - Ripa Rani Biswas ([riparani.biswas@deciphertech.io](mailto:riparani.biswas@deciphertech.io))
 ---
 
 Let's continue building amazing solutions together! 🚀
